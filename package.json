@@ -1,0 +1,12 @@
+{
+  "name": "JavaScriptmas2022-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eminebozdag/JavaScriptmas2022-challenge.git",
+  "author": "eminebozdag ",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
