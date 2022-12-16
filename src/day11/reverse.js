@@ -13,6 +13,3 @@ const reverseString = (arr) => {
 const reverseStringsInArray = (arr) => {
   return arr.map((el) => reverseString(el)).join(". ");
 };
-
-console.log(reverseString(title));
-console.log(reverseStringsInArray(messages));
